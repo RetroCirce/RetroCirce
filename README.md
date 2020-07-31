@@ -1,7 +1,8 @@
 ### Hi I’m Ke(Knut) Chen 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RetroCirce&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetroCirce&layout=compact&count_private=true" />
-
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RetroCirce&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetroCirce&count_private=true" />
+</div>
 <!--
 **RetroCirce/RetroCirce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
