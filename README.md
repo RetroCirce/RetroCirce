@@ -1,4 +1,4 @@
-### Hi I’m Ke(Knut) Chen 👋 
+### Hi I’m Knut(Ke) Chen 👋 
 
 [![RetroCirce github stats](https://github-readme-stats.vercel.app/api?username=RetroCirce&count_private=true&include_all_commits=true&theme=transparent)](https://github.com/RetroCirce/github-readme-stats)
 
