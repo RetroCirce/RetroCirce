@@ -2,7 +2,7 @@
 
 [![RetroCirce github stats](https://github-readme-stats.vercel.app/api?username=RetroCirce&count_private=true&include_all_commits=true&theme=transparent)](https://github.com/RetroCirce/github-readme-stats)
 
-**RetroCirce/RetroCirce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **RetroCirce/RetroCirce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
+-->  
