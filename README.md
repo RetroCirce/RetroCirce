@@ -1,8 +1,12 @@
 ### Hi I’m Ke(Knut) Chen 👋
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RetroCirce&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true&include_all_commits=true" />
-</div>
-<!--
+
+### Selected Research & Projects 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!--
 **RetroCirce/RetroCirce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
